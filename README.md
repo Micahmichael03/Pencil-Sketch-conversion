@@ -55,11 +55,11 @@ The required dependencies are listed in `requirements.txt`. The project primaril
 ## Example Output
 Original Image | Pencil Sketch
 :-------------:|:-------------:
-![Original](officer.jpg) | ![Sketch](sketch_image.png)
+![Original](officer.jpg) | ![Sketch](results.png)
 
 ## License
 This project is open-source and available under the MIT License.
 
 ## Author
-Developed by **Your Name**. Contributions are welcome!
+Developed by **Michael Micah**. Contributions are welcome!
 
